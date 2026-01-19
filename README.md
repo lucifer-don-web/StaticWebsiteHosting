@@ -43,8 +43,8 @@ To allow public read access, the following JSON policy was applied to the bucket
 <img width="460" height="272" alt="image" src="https://github.com/user-attachments/assets/295ef38a-0baf-49a5-9a56-2b32fe95730d" />
 
 5. Access The Website
-Using bucket website endpoint URL to display the website:
-     i.e http://static-web-op.s3-website-us-east-1.amazonaws.com
+   The website can be accessed using the S3 bucket website endpoint URL, such as:
+      http://static-web-op.s3-website-us-east-1.amazonaws.com
 
 <img width="624" height="287" alt="image" src="https://github.com/user-attachments/assets/ba354f3b-6721-43b1-bd3f-40acd901a8dd" />
 
