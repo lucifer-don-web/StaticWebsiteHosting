@@ -3,12 +3,16 @@ A simple, highly available static website hosted using Amazon S3. This project d
 
 #Features
 Serverless: No EC2 instances or servers to manage.
+
 Highly Available: Leverages AWS S3 infrastructure for 99.99% availability.
+
 Public Access: Configured with custom bucket policies for global reach.
 
 #Tech Stack
 Storage: Amazon S3
+
 Frontend: HTML5, CSS3
+
 Security: AWS Identity and Access Management (IAM) Bucket Policies
 
 #Project Configuration
